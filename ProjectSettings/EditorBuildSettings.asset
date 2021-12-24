@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 17e1d03159d8a044eb4917772dbfb6cd
+  - enabled: 1
+    path: Assets/Scenes/GameTutorial1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameTutorial2.unity
+    guid: 2a28d2aa526235f46ba23a7ff525d85c
+  - enabled: 1
+    path: Assets/Scenes/GameTutorial3.unity
+    guid: 7f0f9c7c857ee884e9d976e77303f293
+  - enabled: 1
+    path: Assets/Scenes/GameTutorial4.unity
+    guid: 8aeb501a414e71e45874466de1f552cd
+  - enabled: 1
+    path: Assets/Scenes/PullThemOutStage.unity
+    guid: 534a7eb7dcc08ee4fa9681e886c66f73
+  - enabled: 1
+    path: Assets/Scenes/TrapStage.unity
+    guid: f79c3f4abdb838644bd93c0e057a2718
+  - enabled: 1
+    path: Assets/Scenes/BossStage.unity
+    guid: a1fcd9c759a1b724bbc63128b31b43dc
+  - enabled: 1
+    path: Assets/Scenes/FastResponseStage.unity
+    guid: b93d226a7e9947840910e59033badd94
+  - enabled: 1
+    path: Assets/Scenes/ArcherStage.unity
+    guid: 4b855fa275db71e4885884e850ee7808
+  - enabled: 1
+    path: Assets/Scenes/GoAroundStage.unity
+    guid: 91cba45dd9800554781d4454b9342f35
+  m_configObjects: {}
