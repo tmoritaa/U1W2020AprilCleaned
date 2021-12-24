@@ -14,6 +14,8 @@ https://unityroom.com/games/tekishou_uchitottari
 - SE・BGM諸々
 - Font
 
+___
+
 Source code and assets for a game made for the Unity 1 Week game jam around April 2020 https://unityroom.com/games/tekishou_uchitottari
 
 Version without third party libraries and assets, so won't compile.
