@@ -12,10 +12,8 @@ https://unityroom.com/games/tekishou_uchitottari
 - Procedural UI Image
 - Extenject
 - SE・BGM諸々
-- Font
-
+- フォント類
 ___
-
 Source code and assets for a game made for the Unity 1 Week game jam around April 2020 https://unityroom.com/games/tekishou_uchitottari
 
 Version without third party libraries and assets, so won't compile.
